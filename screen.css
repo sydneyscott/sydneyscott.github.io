@@ -60,3 +60,8 @@ body {
   background-color: lightpink
 }
 
+.jumbotron {
+  background-image: url("LAKE.JPG");
+  background-size: Cover;
+  Height: 570px;
+}

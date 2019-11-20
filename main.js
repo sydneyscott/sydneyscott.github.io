@@ -5,8 +5,8 @@
       })
 
       $( document ).ready(function() {
-        $( "#fade" ).click(function() {
-          $( "#fade" ).fadeOut( "slow", function() {
+        $( "#gone" ).click(function() {
+          $( "div" ).fadeOut( "slow", function() {
           });
         });
       });
